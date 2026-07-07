@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiDocAssistant.Api/ApiDocAssistant.Api.csproj" />
+  <Project Path="ApiDocAssistant.Application/ApiDocAssistant.Application.csproj" />
+  <Project Path="ApiDocAssistant.Domain/ApiDocAssistant.Domain.csproj" />
+  <Project Path="ApiDocAssistant.Infrastructure/ApiDocAssistant.Infrastructure.csproj" />
+</Solution>
